@@ -1,4 +1,4 @@
-# AutoScraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+
 
 
 
